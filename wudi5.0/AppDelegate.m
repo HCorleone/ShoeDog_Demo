@@ -7,8 +7,11 @@
 //
 
 #import "AppDelegate.h"
+#import "homeTableViewController.h"
+#import "menuViewController.h"
+#import "SWRevealViewController.h"
 
-@interface AppDelegate ()
+@interface AppDelegate()<SWRevealViewControllerDelegate>
 
 @end
 
@@ -16,7 +19,21 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen]bounds]];
+    [self.window makeKeyAndVisible];
+    
+    homeTableViewController *homeVC = [[homeTableViewController alloc] init];
+    menuViewController *menuVC = [[menuViewController alloc] init];
+    
+    UINavigationController *rootNav = [[UINavigationController alloc]initWithRootViewController:homeVC];
+    
+    SWRevealViewController *revealController = [[SWRevealViewController alloc] initWithRearViewController:menuVC frontViewController:rootNav];
+    revealController.delegate = self;
+    
+    
+    self.window.rootViewController = revealController;
+    self.window.backgroundColor=[UIColor whiteColor];
+    
     return YES;
 }
 

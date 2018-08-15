@@ -1,0 +1,123 @@
+{
+    "code":1,
+    "msg":"请求成功",
+    "data":[
+             {
+             "SneakerName": "AIR JORDAN 1 REVERSE SHATTERED BACKBOARD",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData": "10月.08,2016",
+             "SneakerPrice": "$80",
+             "PngPath": "http://120.78.51.198/aj1/1.png",
+             "PngPath2": "http://120.78.51.198/aj1/1@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 2 ELEPHANT PRINT",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$90",
+            "PngPath": "http://120.78.51.198/aj1/2.png",
+            "PngPath2": "http://120.78.51.198/aj1/2@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 3 BLACK CEMENT",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData": "8月.10,1997",
+             "SneakerPrice": "$200",
+            "PngPath": "http://120.78.51.198/aj1/3.png",
+            "PngPath2": "http://120.78.51.198/aj1/3@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 4 RETRO FIRE RED NUBUCK",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$300",
+             "PngPath": "http://120.78.51.198/aj1/4.png",
+            "PngPath2": "http://120.78.51.198/aj1/4@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 5 SPACE JAM",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$400",
+            "PngPath": "http://120.78.51.198/aj1/5.png",
+            "PngPath2": "http://120.78.51.198/aj1/5@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 6 GATORADE",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$500",
+            "PngPath": "http://120.78.51.198/aj1/6.png",
+            "PngPath2": "http://120.78.51.198/aj1/6@2x.png"
+             }
+            ,
+             {
+             "SneakerName": "AIR JORDAN 7 UNIVERSITY BLUE",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$600",
+            "PngPath": "http://120.78.51.198/aj1/7.png",
+            "PngPath2": "http://120.78.51.198/aj1/7@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 8 THREE PEAT",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$700",
+            "PngPath": "http://120.78.51.198/aj1/8.png",
+            "PngPath2": "http://120.78.51.198/aj1/8@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 9 STATUE",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$100",
+            "PngPath": "http://120.78.51.198/aj1/9.png",
+            "PngPath2": "http://120.78.51.198/aj1/9@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 10 CHICAGO",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$100",
+            "PngPath": "http://120.78.51.198/aj1/10.png",
+            "PngPath2": "http://120.78.51.198/aj1/10@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 11 RETRO 72-10",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$100",
+            "PngPath": "http://120.78.51.198/aj1/11.png",
+            "PngPath2": "http://120.78.51.198/aj1/11@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 12 FLU GAME",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$100",
+            "PngPath": "http://120.78.51.198/aj1/12.png",
+            "PngPath2": "http://120.78.51.198/aj1/12@2x.png"
+             }
+             ,
+             {
+             "SneakerName": "AIR JORDAN 13 RETRO HE GOT GAME",
+             "SneakerBrand": "AIR JORDAN",
+             "ReleaseData" : "8月.10,1997",
+             "SneakerPrice": "$100",
+            "PngPath": "http://120.78.51.198/aj1/13.png",
+            "PngPath2": "http://120.78.51.198/aj1/13@2x.png"
+             }
+ ]
+}
+

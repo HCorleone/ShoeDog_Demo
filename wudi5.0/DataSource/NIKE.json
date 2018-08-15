@@ -1,0 +1,52 @@
+
+[
+ 
+ {
+ "SneakerName": "NIKE KOBE 11 EM LA SUNSET",
+ "SneakerBrand": "NIKE",
+ "ReleaseData" : "8月.10,1997",
+ "SneakerPrice": "$600",
+ "favbtn": false
+ }
+ ,
+ {
+ "SneakerName": "NIKE KOBE 10 INDEPENDENCE DAY",
+ "SneakerBrand": "NIKE",
+ "ReleaseData" : "8月.10,1997",
+ "SneakerPrice": "$700",
+ "favbtn": false
+ }
+ ,
+ {
+ "SneakerName": "NIKE KOBE 9 EM BRUCE LEE",
+ "SneakerBrand": "NIKE",
+ "ReleaseData" : "8月.10,1997",
+ "SneakerPrice": "$100",
+ "favbtn": false
+ }
+ ,
+ {
+ "SneakerName": "NIKE KOBE 8 SYSTEM EASTRER",
+ "SneakerBrand": "NIKE",
+ "ReleaseData" : "8月.10,1997",
+ "SneakerPrice": "$100",
+ "favbtn": false
+ }
+ ,
+ {
+ "SneakerName": "NIKE KOBE 7 YEAR OF THE DRAGON",
+ "SneakerBrand": "NIKE",
+ "ReleaseData" : "8月.10,1997",
+ "SneakerPrice": "$100",
+ "favbtn": false
+ }
+ ,
+ {
+ "SneakerName": "NIKE ZOOM KOBE6 THINK PINK",
+ "SneakerBrand": "NIKE",
+ "ReleaseData" : "8月.10,1997",
+ "SneakerPrice": "$100",
+ "favbtn": false
+ }
+
+]
